@@ -1,0 +1,7 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1800px) {
+
+    .fourth-slider-img.fsi-two {
+        width: 750px;
+    }
+    }

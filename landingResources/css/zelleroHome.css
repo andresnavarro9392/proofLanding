@@ -1,0 +1,24 @@
+.fourth-slider-img {
+	box-shadow: 0px 3px 14px rgb(69 43 0 / 70%);
+    border-radius: 10px;
+    position: absolute;
+    right: 15px;
+    top: -25px;
+}
+
+.homeButtonOne {
+    box-shadow: 0 0px 4px 0px rgb(246 86 100);
+    border-radius: 30px;
+}
+
+.hfour-choose-bg {
+    padding-top: 0;
+}
+
+.c-fff {
+    color: #fff;
+}
+
+.hfour-choose-bg {
+    padding-bottom: 50px;
+}
